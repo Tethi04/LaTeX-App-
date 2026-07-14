@@ -1,0 +1,6 @@
+{
+  "name": "LaTeX Compiler",
+  "description": "An offline and online capable LaTeX compiler, editor, and assistant powered by Gemini API, complete with local Room storage and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
